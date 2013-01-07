@@ -6,5 +6,3 @@ Terrain Explorer is a terrain renderer built using XNA 2.0. (Note: it has not be
 Finally, it has a rudimentary grass renderer in place that will render grass if the camera is in close enough proximity. 
 
 In future versions, real-time water and some sort of sky (ideally atmospheric scattering) will be included. 
-
-I've included the full source to the project and all the project files in the belief that I should give a little back to a community from which I've learned a lot.
