@@ -1,0 +1,3 @@
+E:\Code\Projects\TerrainExplorer\TerrainExplorer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TerrainExplorer\TerrainExplorer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My XNA Projects\TerrainExplorer\TerrainExplorer\Content\obj\x86\Debug\ResolveAssemblyReference.cache

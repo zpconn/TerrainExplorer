@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2007-04-23T18:21:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\menuFont.bmp</Source>
+      <Name>Textures\menuFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\menuFont.xnb</Output>
+      <Time>2007-05-03T16:26:32.5625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\grass.dds</Source>
+      <Name>Textures\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\grass.xnb</Output>
+      <Time>2008-04-11T17:41:21.359625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_back.JPG</Source>
+      <Name>Models\skybox_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_back.xnb</Output>
+      <Time>2008-07-29T23:33:11.218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_bottom.JPG</Source>
+      <Name>Models\skybox_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_bottom.xnb</Output>
+      <Time>2006-11-18T12:05:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_front.JPG</Source>
+      <Name>Models\skybox_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_front.xnb</Output>
+      <Time>2008-07-29T23:33:22.514875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_left.JPG</Source>
+      <Name>Models\skybox_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_left.xnb</Output>
+      <Time>2008-07-29T23:33:00.1555-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_right.JPG</Source>
+      <Name>Models\skybox_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_right.xnb</Output>
+      <Time>2008-07-29T23:33:47.093-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox_top.JPG</Source>
+      <Name>Models\skybox_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\skybox_top.xnb</Output>
+      <Time>2008-07-29T23:33:36.483625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Terrain.fx</Source>
+      <Name>Shaders\Terrain</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Shaders\Terrain.xnb</Output>
+      <Time>2008-08-02T22:05:01.577875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Grass.fx</Source>
+      <Name>Shaders\Grass</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Shaders\Grass.xnb</Output>
+      <Time>2008-04-14T20:20:40.9438617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Skybox.fx</Source>
+      <Name>Shaders\Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Shaders\Skybox.xnb</Output>
+      <Time>2008-07-29T22:04:03.0305-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox.x</Source>
+      <Name>Models\Skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\Skybox.xnb</Output>
+      <Time>2008-07-29T21:10:52.81175-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Skybox%0.xml</Key>
+        <Value>2008-08-02T19:48:58.9685-05:00</Value>
+      </Dependency>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Top%0.xnb</Request>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Right%0.xnb</Request>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Left%0.xnb</Request>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Front%0.xnb</Request>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Back%0.xnb</Request>
+      <Request>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Bottom%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Skybox%0.xml</Output>
+      <Time>2008-07-29T21:10:52.81175-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Top%0.xnb</Output>
+      <Time>2008-07-29T23:33:36.483625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Right%0.xnb</Output>
+      <Time>2008-07-29T23:33:47.093-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Left%0.xnb</Output>
+      <Time>2008-07-29T23:33:00.1555-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Front%0.xnb</Output>
+      <Time>2008-07-29T23:33:22.514875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Back%0.xnb</Output>
+      <Time>2008-07-29T23:33:11.218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Models\SkyBox_Bottom%0.xnb</Output>
+      <Time>2006-11-18T12:05:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\grass01.dds</Source>
+      <Name>Textures\grass01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\grass01.xnb</Output>
+      <Time>2008-04-11T22:38:55.140875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rock01.dds</Source>
+      <Name>Textures\rock01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\rock01.xnb</Output>
+      <Time>2008-04-11T22:39:44.328375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\snow01.dds</Source>
+      <Name>Textures\snow01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\snow01.xnb</Output>
+      <Time>2008-04-11T22:40:12.594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Heightmap.png</Source>
+      <Name>Textures\Heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\Textures\Heightmap.xnb</Output>
+      <Time>2008-08-02T22:53:28.93725-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\My XNA Projects\TerrainExplorer\TerrainExplorer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T12:08:00-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T12:08:42-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T12:08:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T12:07:44-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-07-25T20:52:06.342875-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
